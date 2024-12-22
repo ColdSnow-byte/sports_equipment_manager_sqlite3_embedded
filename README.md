@@ -1,0 +1,1 @@
+# sports_equipment_manager_sqlite3_embedded
